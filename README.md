@@ -1,8 +1,9 @@
+## Hi there!
 Welcome to my profile! I am a web developer from Baku. I love beautiful, short but powerful code! Pay close attention to the details, always try to follow conventions and love the latest, progressive technologies most of all. Work remotely since 2017 👨🏻‍💻
 
 <br/>
 
-#### I am in ❤️ with:
+## I am in ❤️ with:
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/laravel.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
