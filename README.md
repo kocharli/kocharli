@@ -1,5 +1,5 @@
 ## Hi there!
-Welcome to my profile! I am a web developer from Baku. I love beautiful, short but powerful code! Pay close attention to the details, always try to follow conventions and love the latest, progressive technologies most of all. Work remotely since 2017 👨🏻‍💻
+Welcome to my profile! I am a web developer from Baku. I love beautiful, short but powerful code! Pay close attention to the details, always try to follow conventions and love the latest, progressive technologies most of all. Working remotely since 2017 👨🏻‍💻
 
 <br/>
 
