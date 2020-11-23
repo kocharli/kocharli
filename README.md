@@ -5,7 +5,7 @@ Welcome to my profile! I am a web developer from Baku. I love beautiful, short b
 
 ## I am in ❤️ with:
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/laravel.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
