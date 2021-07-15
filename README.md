@@ -1,19 +1,8 @@
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/npm.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/netlify.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg"></code>
+```typescript
+const kocharli = { 
+  fullName: "Elchin Hasanov Kochari",
+  devExperience: "6 years",
+  favStack: "TypeScript / Vue.js / TailwindCSS / AWS",
+  telegram: "elchinkocharli",
+}
+```
